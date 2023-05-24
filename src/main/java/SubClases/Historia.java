@@ -124,9 +124,9 @@ public class Historia{
     
     public String vizualizarH(){
         String vizualizar=
-        "Imagen:"+this.img+"<br>"+
-        "Comentario:"+this.comentario+"<br>"+
-        "Estado:"+this.estado+"<br>"+
+        "Imagen:"+img+"<br>"+
+        "Comentario:"+comentario+"<br>"+
+        "Estado:"+estado+"<br>"+
         "Imagen:"+img1+"<br>"+
         "Comentario:"+com1+"<br>"+
         "Estado:"+est1+"<br>"+
